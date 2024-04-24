@@ -1,0 +1,6 @@
+.vscode/
+*.a
+*.o
+ft/*.a
+ft/*.o
+push_swap
